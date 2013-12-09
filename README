@@ -1,0 +1,6 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4792
+
+Adds functions for Grepping and Finding files that are on a remote server. The files can then be edited using Netrw (which is built into most vim installs).
+
+The canonical repository is on github at https://github.com/sirbrillig/netgrep
+
